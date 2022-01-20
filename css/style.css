@@ -830,6 +830,11 @@ footer .copy {
 }
 
 @media(max-width:576px) {
+    .education .box-container{
+        padding-left: 0.1rem;
+
+    }
+    
     .brand img {
         margin-top: 2rem;
     }
